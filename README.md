@@ -57,6 +57,8 @@ List of content:
 # <a name="youtube-channels">YouTube Channels</a>
 * [aantonop](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
 * [Ivan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
+* [Dapp University](https://www.youtube.com/c/DappUniversity)
+* [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks)
 
 # <a name="code-examples">Code Examples</a>
 * [Jypto](https://jypto.co)
