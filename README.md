@@ -1,4 +1,4 @@
-# blockchain-Nigeria
+# Blockchain-Nigeria
 Curated list of blockchain dev related links for people in Nigeria. 
 
 List of content:
