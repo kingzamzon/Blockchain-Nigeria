@@ -21,6 +21,7 @@ List of content:
 # <a name="events">Events</a>
 * [Lagos Blockchain and Crypto-Arts Conference](https://blockchainnigeria.group/)
 * [Cyberchain](https://www.eventbrite.com/o/cyberchain-17641888778)
+* [Uniben Blockchain Conference](https://twitter.com/unibencrypto)
 
 # <a name="qa-site">Q&A Sites</a>
 * [Ethereum Stack Exchange](https://ethereum.stackexchange.com/)
