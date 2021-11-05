@@ -70,10 +70,13 @@ List of content:
 * [Timi Ajiboye]()
 * [Ire Aderinokun]()
 * [Tomiwa Lasebikan]()
+* [Ruth Iselema]()
 
 # <a name="companies">Companies</a>
 * [Helicarrier](https://helicarrier.studio/)
 * [BuyCoin](https://buycoins.africa/)
 * [Convexity](https://thehub.withconvexity.com/)
 * [Seso Global](https://app.seso.global/properties/home)
+* [Bitmama](https://bitmama.io/)
+* [Changera.io](https://www.changera.co/)
 
