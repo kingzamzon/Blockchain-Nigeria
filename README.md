@@ -79,4 +79,5 @@ List of content:
 * [Seso Global](https://app.seso.global/properties/home)
 * [Bitmama](https://bitmama.io/)
 * [Changera.io](https://www.changera.co/)
+* [Chekkit](https://chekkitapp.com/)
 
