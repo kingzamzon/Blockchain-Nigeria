@@ -22,6 +22,7 @@ List of content:
 * [Lagos Blockchain and Crypto-Arts Conference](https://blockchainnigeria.group/)
 * [Cyberchain](https://www.eventbrite.com/o/cyberchain-17641888778)
 * [Uniben Blockchain Conference](https://twitter.com/unibencrypto)
+* [Blockchain Nigeria User Group (BNUG)](https://blockchainnigeria.group/)
 
 # <a name="qa-site">Q&A Sites</a>
 * [Ethereum Stack Exchange](https://ethereum.stackexchange.com/)
@@ -73,4 +74,6 @@ List of content:
 # <a name="companies">Companies</a>
 * [Helicarrier](https://helicarrier.studio/)
 * [BuyCoin](https://buycoins.africa/)
+* [Convexity](https://thehub.withconvexity.com/)
+* [Seso Global](https://app.seso.global/properties/home)
 
