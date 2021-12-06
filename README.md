@@ -23,6 +23,7 @@ List of content:
 * [Cyberchain](https://www.eventbrite.com/o/cyberchain-17641888778)
 * [Uniben Blockchain Conference](https://twitter.com/unibencrypto)
 * [Blockchain Nigeria User Group (BNUG)](https://blockchainnigeria.group/)
+* [Abuja Blockchain & Crypto-Assets Conference/ Exhibition](https://www.eventbrite.com/e/abuja-blockchain-crypto-assets-conference-exhibition-2021-tickets-198176018807#listing-organizer)
 
 # <a name="qa-site">Q&A Sites</a>
 * [Ethereum Stack Exchange](https://ethereum.stackexchange.com/)
