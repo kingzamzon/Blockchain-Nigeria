@@ -72,6 +72,9 @@ List of content:
 * [Ire Aderinokun]()
 * [Tomiwa Lasebikan]()
 * [Ruth Iselema]()
+* [Damilare Aregbesola](https://x.com/Sir_Damilare)
+* [Ugochukwu Aronu](https://x.com/AronuUgochukwu)
+
 
 # <a name="companies">Companies</a>
 * [Helicarrier](https://helicarrier.studio/)
