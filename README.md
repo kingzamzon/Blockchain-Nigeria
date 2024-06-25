@@ -85,3 +85,6 @@ List of content:
 * [Changera.io](https://www.changera.co/)
 * [Chekkit](https://chekkitapp.com/)
 
+# <a name="communities">Communities</a>
+* [Web3 Bridge](https://x.com/Web3Bridge)
+* [Starknet Africa](https://x.com/StarkNetAfrica)
