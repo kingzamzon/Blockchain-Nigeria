@@ -66,84 +66,87 @@ List of content:
 * [Jypto](https://jypto.co)
 
 # <a name="personalities">Personalities</a>
-* [Henry Onyebuchi]()
-* [Fejiro Hanu Agbodje]()
-* [Timi Ajiboye]()
-* [Ire Aderinokun]()
-* [Tomiwa Lasebikan]()
-* [Ruth Iselema]()
-* [Damilare Aregbesola](https://x.com/Sir_Damilare)
-* [Ugochukwu Aronu](https://x.com/AronuUgochukwu)
-* [Victoria Enebeli](https://x.com/iamveektoria_)
-* [Aishat Suleiman](https://x.com/BintuParis)
-* [Adeola Adesina](https://x.com/ThisDeolaSef)
-* [Elienai Julius](https://x.com/notevenvibes)
-* [Joel Adewole](https://x.com/wolz_codelife)
-* [Abdulfatai Suleiman](https://x.com/iamnotstatic)
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
-* [Ruth Iselema]()
+
+|Name | Role | Social Media |
+|----|---|---|
+| [Henry Onyebuchi]() | ll | mm |
+| [Fejiro Hanu Agbodje]() | ll | mm |
+| [Timi Ajiboye]() | ll | mm |
+| [Ire Aderinokun]() | ll | mm |
+| [Tomiwa Lasebikan]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Damilare Aregbesola](https://x.com/Sir_Damilare) | ll | mm |
+| [Ugochukwu Aronu](https://x.com/AronuUgochukwu) | ll | mm |
+| [Victoria Enebeli](https://x.com/iamveektoria_) | ll | mm |
+| [Aishat Suleiman](https://x.com/BintuParis) | ll | mm |
+| [Adeola Adesina](https://x.com/ThisDeolaSef) | ll | mm |
+| [Elienai Julius](https://x.com/notevenvibes) | ll | mm |
+| [Joel Adewole](https://x.com/wolz_codelife) | ll | mm |
+| [Abdulfatai Suleiman](https://x.com/iamnotstatic) | ll | mm |
+| [Pishikeni Tukura](https://x.com/pkstevenz_) | ll | mm |
+| [tonyolendo.eth](https://x.com/tonyolendo) | ll | mm |
+| [NKECHI ENEBELI](https://x.com/__iamcharis) | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
+| [Ruth Iselema]() | ll | mm |
 
 
 # <a name="companies">Companies</a>
@@ -166,3 +169,8 @@ List of content:
 * [Web3 Bridge](https://x.com/Web3Bridge)
 * [Starknet Africa](https://x.com/StarkNetAfrica)
 * [Superteam Nigeria](https://x.com/SuperteamNG)
+* [Ayaversity](https://x.com/ayaversity)
+* [Aya (Techstars '23)](https://x.com/ayahq_)
+* [Web3 Afrika](https://x.com/web3afrika)
+* [EthAbuja](https://x.com/EthAbuja_)
+* [EthJos](https://x.com/Ethjos_)
