@@ -24,6 +24,7 @@ List of content:
 * [Uniben Blockchain Conference](https://twitter.com/unibencrypto)
 * [Blockchain Nigeria User Group (BNUG)](https://blockchainnigeria.group/)
 * [Abuja Blockchain & Crypto-Assets Conference/ Exhibition](https://www.eventbrite.com/e/abuja-blockchain-crypto-assets-conference-exhibition-2021-tickets-198176018807#listing-organizer)
+* [Lagos Blockchain Week](https://x.com/LagosBlockWeek)
 
 # <a name="qa-site">Q&A Sites</a>
 * [Ethereum Stack Exchange](https://ethereum.stackexchange.com/)
@@ -86,13 +87,13 @@ List of content:
 | [Pishikeni Tukura](https://x.com/pkstevenz_) | ll | mm |
 | [tonyolendo.eth](https://x.com/tonyolendo) | ll | mm |
 | [NKECHI ENEBELI](https://x.com/__iamcharis) | ll | mm |
-| [Ruth Iselema]() | ll | mm |
-| [Ruth Iselema]() | ll | mm |
-| [Ruth Iselema]() | ll | mm |
-| [Ruth Iselema]() | ll | mm |
-| [Ruth Iselema]() | ll | mm |
-| [Ruth Iselema]() | ll | mm |
-| [Ruth Iselema]() | ll | mm |
+| [nwankwo.eth](https://x.com/judicodes) | ll | mm |
+| [Blessing Adesiji](https://x.com/bleso_a) | ll | mm |
+| [Idris Olubiyi](https://x.com/olanetsoft) | ll | mm |
+| [amarachiugwu.eth](https://x.com/amarachiugwu_) | ll | mm |
+| [Emmanuel Enebeli](https://x.com/kokocodes) | ll | mm |
+| [Oluwatosin Serah](https://x.com/SerahOluwatosin) | ll | mm |
+| [Paul Ξmmanuel](https://x.com/paulemmanuelng) | ll | mm |
 | [Ruth Iselema]() | ll | mm |
 | [Ruth Iselema]() | ll | mm |
 | [Ruth Iselema]() | ll | mm |
@@ -174,3 +175,10 @@ List of content:
 * [Web3 Afrika](https://x.com/web3afrika)
 * [EthAbuja](https://x.com/EthAbuja_)
 * [EthJos](https://x.com/Ethjos_)
+* [Horus Labs](https://x.com/horuslabsio)
+* [BlockHeader Web3](https://x.com/Blockheaderweb3)
+* [ETHNIGERIA](https://x.com/EthereumNigeria)
+* [blockspaceinnovationhub](https://x.com/blockspaceHUB)
+* [Web3UNILAG](https://x.com/Web3Unilag)
+* [Women In Blockchain Africa](https://x.com/WIB_Africa)
+
